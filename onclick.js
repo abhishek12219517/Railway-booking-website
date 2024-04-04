@@ -1,9 +1,9 @@
 function newtab1() {
-    window.open("testing.html", "_self")
+    window.open("index.html", "_self")
 };
 
 function newtab2() {
-    window.open("Meals.html", "_self")
+    window.open("meals.html", "_self")
 };
 
 function newtab3() {
